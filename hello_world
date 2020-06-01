@@ -1,0 +1,4 @@
+message = "HELLO PYTHON REALM"
+print(message)
+message = "WHATS GOOD CUZ?"
+print(message)
